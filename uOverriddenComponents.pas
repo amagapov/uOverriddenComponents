@@ -20,6 +20,10 @@ const
   CONSTHINTDISPLAYPAUSE     = 100;
   CONSTHINTDISPLAYDURATION  = 2000;
 
+  COLOR_3B3E4E    = $004E3E3B;
+  COLOR_303341    = $00413330;
+  COLOR_9DA2B5_50 = $00887875;
+
 type
   TcxTabSheetColored = class(TcxTabSheet)
   const
